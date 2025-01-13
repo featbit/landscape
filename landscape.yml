@@ -9701,6 +9701,15 @@ landscape:
               blog_url: https://gofeatureflag.org/blog
               youtube_url: https://www.youtube.com/channel/UCfbvrEKpUh_a0oyrGBj2fxQ
           - item:
+            name: FeatBit
+            homepage_url: https://featbit.co
+            repo_url: https://github.com/featbit/featbit
+            logo: featbit.svg
+            crunchbase: https://www.crunchbase.com/organization/
+            extra:
+              slack_url: https://join.slack.com/t/featbit/shared_invite/zt-1ew5e2vbb-x6Apan1xZOaYMnFzqZkGNQ
+              youtube_url: https://www.youtube.com/@featbit
+          - item:
             name: LaunchDarkly
             homepage_url: https://launchdarkly.com
             logo: launchdarkly.svg
